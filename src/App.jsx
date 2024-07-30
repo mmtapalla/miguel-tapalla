@@ -261,7 +261,7 @@ function App() {
                 </section>
                 <footer>
                     <p>
-                        Coded by <strong>Miguel Tapalla</strong>.{" "}
+                        By <strong>Miguel Tapalla</strong>.{" "}
                     </p>
                 </footer>
             </main>
