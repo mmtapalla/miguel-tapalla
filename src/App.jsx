@@ -97,17 +97,12 @@ function App() {
                     </div>
                     <div>
                         <p>
-                            I grew up fixated on technologies and playing video
-                            games while learning how to draw at the same time.
-                            Over time, I became curious about whether I could
-                            combine the best of both worlds to create a
-                            meaningful user experience. And that's where I am
-                            right now.
-                        </p>
-                        <p>
-                            I enjoy software development when design and
-                            engineering intersect—creating things that not only
-                            look good but are also well-built behind the covers.
+                            I grew up captivated by video games, which gradually
+                            sparked my interest in technology. At the same time,
+                            I nurtured my passion for art as a self-taught
+                            artist. Over time, I began to wonder if I could
+                            merge these two worlds to create something
+                            meaningful. And that’s where I am today.
                         </p>
                         <p>
                             When I'm not at the computer, you'll find me
