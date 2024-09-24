@@ -127,7 +127,7 @@ section {
     }
 
     .image {
-        @apply rounded border-slate-200/10 transition group-hover:border-slate-200/30 sm:order-1 sm:col-span-2 sm:translate-y-1;
+        @apply rounded border-slate-200/10 transition group-hover:border-slate-200/30 sm:order-1 sm:col-span-2 sm:translate-y-1 hover:shadow-lg;
     }
 
     .info {
