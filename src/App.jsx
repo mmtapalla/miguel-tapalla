@@ -102,7 +102,7 @@ function App() {
                             I nurtured my passion for art as a self-taught
                             artist. Over time, I became curious if I could merge
                             these two worlds to create something meaningful. And
-                            that’s where I am today.
+                            that's where I am today.
                         </p>
                         <p>
                             When I'm not at the computer, you'll find me
@@ -242,6 +242,20 @@ function App() {
                         <h2>Projects</h2>
                     </div>
                     <div className="card">
+                        <Card
+                            image="https://iili.io/dsymAHN.png"
+                            projectLink="https://www.optogrow.com/v3-home"
+                            heading="OptoGrow Front-end Redesign"
+                            subheading="IT Specialist (Contractor)"
+                            info="A front-end redesign proposal for the OptoGrow website during my time as an IT Specialist Contractor. The Figma project can be viewed <a href='https://www.figma.com/design/tknh1NdgEGoYbdSZpLNUiw/OptoGrow---Front-end-Redesign?node-id=4-2' style='font-size: 0.875rem; line-height: 1.5;'>here</a>."
+                            tags={[
+                                "Figma",
+                                "Photoshop",
+                                "HighLevel CRM",
+                                "Bootstrap",
+                            ]}
+                        />
+
                         <Card
                             image="https://iili.io/dsbstJs.png"
                             projectLink="https://pup-pylon-threejs.vercel.app"
