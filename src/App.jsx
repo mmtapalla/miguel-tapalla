@@ -100,9 +100,9 @@ function App() {
                             I grew up captivated by video games, which gradually
                             sparked my interest in technology. At the same time,
                             I nurtured my passion for art as a self-taught
-                            artist. Over time, I began to wonder if I could
-                            merge these two worlds to create something
-                            meaningful. And that’s where I am today.
+                            artist. Over time, I became curious if I could merge
+                            these two worlds to create something meaningful. And
+                            that’s where I am today.
                         </p>
                         <p>
                             When I'm not at the computer, you'll find me
@@ -209,7 +209,7 @@ function App() {
                             year="Aug — Sep 2022"
                             heading="OptoGrow Operations Management Services"
                             subheading="IT Specialist (Intern)"
-                            info="• Collaborated with cross-functional teams to document client funnels, provide remote technical support, and conduct international client audits, addressing CRM functionalities, workflow automations, and relational databases.<br />• Led audits of the company's CRM platform, enhancing client funnels using HTML, CSS, and JavaScript, ensuring cross-device compatibility, and employing semantic HTML and SEO techniques.<br />• Managed API-integrated tools such as Integrately, Pabbly, Zapier, MailGun, and Twilio."
+                            info="Collaborated with cross-functional teams to document client funnels, provide remote technical support, and conduct international client audits, addressing CRM functionalities, workflow automations, and relational databases.<br />• Led audits of the company's CRM platform, enhancing client funnels using HTML, CSS, and JavaScript, ensuring cross-device compatibility, and employing semantic HTML and SEO techniques.<br />• Managed API-integrated tools such as Integrately, Pabbly, Zapier, MailGun, and Twilio."
                             tags={[
                                 "HighLevel CRM",
                                 "Integrately",
@@ -243,10 +243,29 @@ function App() {
                     </div>
                     <div className="card">
                         <Card
-                            year=""
+                            image="https://iili.io/dsbstJs.png"
+                            projectLink="https://pup-pylon-threejs.vercel.app"
+                            heading="PUP Pylon 3D Model"
+                            subheading="3D Artist and Developer"
+                            info="A tribute project to my alma mater, showcasing my own 3D-modeled PUP Pylon, which allows touch or mouse interactivity using Three.js."
+                            tags={["Three.js", "Blender 3D"]}
+                        />
+
+                        <Card
+                            image="https://iili.io/dsbs6WN.png"
+                            projectLink="https://gpa-calculator-ph.vercel.app"
+                            heading="GPA Calculator"
+                            subheading="Developer"
+                            info="A pet project that allows users to calculate and convert their university grades from the Philippine traditional 1.0 grading system to the international 4.0 GPA scale."
+                            tags={["Django"]}
+                        />
+
+                        <Card
+                            image="https://iili.io/dsbsD5G.png"
                             heading="Indoor Object Detection Device for the Visually Impaired"
+                            projectLink="https://github.com/mmtapalla/indoor-object-detector"
                             subheading="Project Manager and Developer"
-                            info="• Led a team of four and developed a Raspberry Pi 4 device using Python, TensorFlow Lite, and OpenCV for the Philippine National School for the Blind in Pasay City."
+                            info="Led a team of four and developed a Raspberry Pi 4 device using Python, TensorFlow Lite, and OpenCV for the Philippine National School for the Blind in Pasay City."
                             tags={[
                                 "Python",
                                 "Raspberry Pi",
@@ -256,24 +275,27 @@ function App() {
                         />
 
                         <Card
+                            image="https://iili.io/dsbsQgn.png"
                             heading="Automatic Pet Food Dispenser"
+                            projectLink="https://github.com/mmtapalla/auto-pet-food-dispenser"
                             subheading="Project Manager and Developer"
-                            info="• Led a team of four and developed an Arduino-based pet food dispenser that allows pet owners to schedule when the food should automatically dispense."
+                            info="Led a team of four and developed an Arduino-based pet food dispenser that allows pet owners to schedule when the food should automatically dispense."
                             tags={["Arduino", "TinkerCAD"]}
                         />
 
                         <Card
+                            image="https://iili.io/dsbsbef.png"
                             heading="KADiRi: Knowledge About Disaster and Risk"
+                            projectLink="https://github.com/mmtapalla/kadiri-game"
                             subheading="Front-end Developer and UI/UX Designer"
-                            info="• Collaborated on a Unity 2D Android educational game focused on DRRR, encompassing C# programming, game asset creation, art direction, and animation."
-                            tags={["Unity", "Front-end", "UI/UX", "Photoshop"]}
+                            info="Collaborated on a Unity 2D Android educational game focused on DRRR, encompassing C# programming, game asset creation, art direction, and animation."
+                            tags={["C#", "Unity 2D", "Photoshop"]}
                         />
                     </div>
                 </section>
                 <footer>
                     <p>
-                        By <strong>Miguel Tapalla</strong>. Inspired by Brittany
-                        Chiang.{" "}
+                        By <strong>Miguel Tapalla</strong>.{" "}
                     </p>
                 </footer>
             </main>

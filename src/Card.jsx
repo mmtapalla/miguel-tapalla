@@ -1,5 +1,7 @@
 function Card({
     year = "",
+    image = "",
+    projectLink = "",
     heading = "",
     subheading = "",
     info = "",
@@ -8,7 +10,16 @@ function Card({
 }) {
     return (
         <>
-            <div className="year">{year}</div>
+            <div className="year">
+                {year && <span>{year}</span>}
+                {image && projectLink ? (
+                    <a href={projectLink}>
+                        <img src={image} className="image" alt={heading} />
+                    </a>
+                ) : (
+                    image && <img src={image} className="image" alt={heading} />
+                )}
+            </div>
             <div className="info">
                 {heading && <h3>{heading}</h3>}
                 {subheading && <h4>{subheading}</h4>}
