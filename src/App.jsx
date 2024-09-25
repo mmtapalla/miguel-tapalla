@@ -247,7 +247,7 @@ function App() {
                             projectLink="https://www.figma.com/design/tknh1NdgEGoYbdSZpLNUiw/OptoGrow---Front-end-Redesign?node-id=4-2"
                             heading="OptoGrow Front-end Redesign"
                             subheading="IT Specialist (Contractor)"
-                            info="A front-end redesign proposal for the OptoGrow website during my time as an IT Specialist Contractor. The Figma project and live website can be viewed by <span style='font-size: 0.875rem; line-height: 1.5;'><a href='https://www.figma.com/design/tknh1NdgEGoYbdSZpLNUiw/OptoGrow---Front-end-Redesign?node-id=4-2'>clicking</a> <a href='https://www.optogrow.com/v3-home'>here</a></span>."
+                            info="A front-end redesign proposal for the OptoGrow website during my time as an IT Specialist Contractor. The Figma project and live website can be viewed by <a href='https://www.figma.com/design/tknh1NdgEGoYbdSZpLNUiw/OptoGrow---Front-end-Redesign?node-id=4-2' style='font-size: 0.875rem; line-height: 1.5;'>clicking</a> <a href='https://www.optogrow.com/v3-home' style='font-size: 0.875rem; line-height: 1.5;'>here</a></span>."
                             tags={[
                                 "Figma",
                                 "Photoshop",
