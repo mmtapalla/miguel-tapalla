@@ -244,10 +244,10 @@ function App() {
                     <div className="card">
                         <Card
                             image="https://iili.io/dsymAHN.png"
-                            projectLink="https://www.optogrow.com/v3-home"
+                            projectLink="https://www.figma.com/design/tknh1NdgEGoYbdSZpLNUiw/OptoGrow---Front-end-Redesign?node-id=4-2"
                             heading="OptoGrow Front-end Redesign"
                             subheading="IT Specialist (Contractor)"
-                            info="A front-end redesign proposal for the OptoGrow website during my time as an IT Specialist Contractor. The Figma project can be viewed <a href='https://www.figma.com/design/tknh1NdgEGoYbdSZpLNUiw/OptoGrow---Front-end-Redesign?node-id=4-2' style='font-size: 0.875rem; line-height: 1.5;'>here</a>."
+                            info="A front-end redesign proposal for the OptoGrow website during my time as an IT Specialist Contractor. The live website can be viewed by <a href='https://www.optogrow.com/v3-home' style='font-size: 0.875rem; line-height: 1.5;'>clicking here</a>."
                             tags={[
                                 "Figma",
                                 "Photoshop",
