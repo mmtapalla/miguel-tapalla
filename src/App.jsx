@@ -220,7 +220,7 @@ function App() {
                             ]}
                         />
                     </div>
-                    <a href="https://drive.google.com/file/d/1qZvN87ZCkYUX1dxTK8M1kPGJx1n8BIYA/view?usp=sharingz">
+                    <a href="https://drive.google.com/file/d/1C35_JKFsDUEAa01nqqWGF3UBRXUtyaj-/view?usp=sharing">
                         Download Full Résumé
                         <svg
                             xmlns="http://www.w3.org/2000/svg"
